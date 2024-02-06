@@ -8,9 +8,12 @@ Software Engineer and Hobbyist.
 
 
 # Experience
-[Embedded Systems] [Python] [JavaScript] [Java] [C++]
+[Embedded Systems] 
+[Python] [JavaScript] 
+[Java] [C++]
 
 # Projects
 [2048 Clone](https://github.com/Gartcart/2048) - A clone of the popular 2048 game that plays itself with the minimax algorithm and Alpha Beta Pruning. Work in Progress.
-[Sockfish] - Inspired by an online project of the same name, it is a chess engine that fits in the user's shoe to demonstrate issues with cheating in the current chess tournament meta. Repository is private so it is not used for evil.
+
+[Sockfish](https://github.com/Gartcart) - Inspired by an online project of the same name, it is a chess engine that fits in the user's shoe to demonstrate issues with cheating in the current chess tournament meta. Repository is private so it is not used for evil.
 
