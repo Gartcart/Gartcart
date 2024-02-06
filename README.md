@@ -14,6 +14,8 @@ Software Engineer and Hobbyist.
 
 [Java] [C++]
 
+[HTML] [CSS]
+
 # Projects
 [2048 Clone](https://github.com/Gartcart/2048) - A clone of the popular 2048 game that plays itself with the minimax algorithm and Alpha Beta Pruning. Work in Progress.
 
