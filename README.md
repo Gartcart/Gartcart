@@ -9,7 +9,9 @@ Software Engineer and Hobbyist.
 
 # Experience
 [Embedded Systems] 
+
 [Python] [JavaScript] 
+
 [Java] [C++]
 
 # Projects
