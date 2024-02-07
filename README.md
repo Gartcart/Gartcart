@@ -21,3 +21,6 @@ Software Engineer and Hobbyist.
 
 [Sockfish](https://github.com/Gartcart) - Inspired by an online project of the same name, it is a chess engine that fits in the user's shoe to demonstrate issues with cheating in the current chess tournament meta. Repository is private so it is not used for evil.
 
+# TODO
+- Build a movie recommendation engine that takes a movie dataset and recommends new movies based on the user's preferences and similarities to previous movies watched.
+
