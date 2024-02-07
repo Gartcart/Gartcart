@@ -24,3 +24,4 @@ Software Engineer and Hobbyist.
 # TODO
 - Build a movie recommendation engine that takes a movie dataset and recommends new movies based on the user's preferences and similarities to previous movies watched.
 
+- A GUI application where the user can type in their experience with an instrument and the machine can recommend a daily practice plan to achieve a certain level of competence 
