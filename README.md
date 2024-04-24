@@ -10,11 +10,13 @@ Software Engineer and Hobbyist.
 # Experience
 [Embedded Systems] 
 
-[Python] [JavaScript] 
+[Python3] [JavaScript] 
 
 [Java] [C++]
 
 [HTML] [CSS]
+
+[Data Science][R]
 
 # Projects
 [2048 Clone](https://github.com/Gartcart/2048) - A clone of the popular 2048 game that plays itself with the minimax algorithm and Alpha Beta Pruning. Work in Progress.
@@ -26,4 +28,6 @@ Software Engineer and Hobbyist.
 # TODO
 - Build a movie recommendation engine that takes a movie dataset and recommends new movies based on the user's preferences and similarities to previous movies watched.
 
-- A GUI application where the user can type in their experience with an instrument and the machine can recommend a daily practice plan to achieve a certain level of competence 
+- A GUI application where the user can type in their experience with an instrument and the machine can recommend a daily practice plan to achieve a certain level of competence
+
+- A ThinkorSwim platform extension that applies logistic regression to classify if a stock is strong or weak compared to the S&P 500
