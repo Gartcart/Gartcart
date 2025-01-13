@@ -18,6 +18,11 @@ Software Engineer and Hobbyist.
 
 [Data Science][R]
 
+
+# Coursework
+(Under Construction)
+
+
 # Projects
 [2048 Clone](https://github.com/Gartcart/2048) - A clone of the popular 2048 game that plays itself with the minimax algorithm and Alpha Beta Pruning. Work in Progress.
 
