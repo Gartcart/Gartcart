@@ -6,18 +6,20 @@ Software Engineer and Hobbyist.
 - I am currently working on [2048 w Minimax Algorithm](https://github.com/Gartcart/2048)
 - I am also grinding out leetcode questions until I secure my place in the corporate world.
 
-
 # Experience
-[Embedded Systems] 
 
-[Python3] [JavaScript] 
+**Languages**
+[Python] [C] [C++] [Java] [SQL] [Bash]
 
-[Java] [C++]
+**ML / Computer Vision**
+[PyTorch] [TensorFlow] [OpenCV] [YOLO] [Ultralytics]
+[scikit-learn] [pandas] [NumPy]
 
-[HTML] [CSS]
+**Simulation / Synthetic Data**
+[Unreal Engine 5] [Learning Agents Plugin]
 
-[Data Science][R]
-
+**Tools & Infrastructure**
+[Git] [Docker] [AWS] [Linux] [CUDA]
 
 # Coursework
 (Under Construction)
@@ -32,7 +34,3 @@ Software Engineer and Hobbyist.
 
 # TODO
 - Build a movie recommendation engine that takes a movie dataset and recommends new movies based on the user's preferences and similarities to previous movies watched.
-
-- A GUI application where the user can type in their experience with an instrument and the machine can recommend a daily practice plan to achieve a certain level of competence
-
-- A ThinkorSwim platform extension that applies logistic regression to classify if a stock is strong or weak compared to the S&P 500
