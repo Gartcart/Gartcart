@@ -44,3 +44,5 @@ Software Engineer and Hobbyist.
 
 # TODO
 - Build a movie recommendation engine that takes a movie dataset and recommends new movies based on the user's preferences and similarities to previous movies watched.
+
+- Finish personal website and add anonymous analytics to see visitor count!
