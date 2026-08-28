@@ -3,7 +3,7 @@
 Software Engineer and Hobbyist.
 
 # About-Me:
-- I am currently working on [2048 w Minimax Algorithm](https://github.com/Gartcart/2048)
+- I am currently working on [My Web-portfolio!](https://gartcart.github.io)
 - I am also grinding out leetcode questions until I secure my place in the corporate world.
 
 ## Skills
