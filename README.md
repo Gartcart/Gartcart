@@ -36,11 +36,16 @@ Software Engineer and Hobbyist.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 # Projects
+[My Web-portfolio!](https://gartcart.github.io)
+
 [2048 Clone](https://github.com/Gartcart/2048) - A clone of the popular 2048 game that plays itself with the minimax algorithm and Alpha Beta Pruning. Work in Progress.
 
 [Sockfish](https://github.com/Gartcart) - Inspired by an online project of the same name, it is a chess engine that fits in the user's shoe to demonstrate issues with cheating in the current chess tournament meta. Repository is private so it is not used for evil.
 
 [Wine-Quality Datamining](https://github.com/Gartcart/Wine-Quality) - Demonstration of linear regression, k nearest neighbors, logistic regression, and selection methods to create effective predictions of wine quality based off it's physiochemical properties.
+
+[Knock](https://github.com/Gartcart/knock-public/tree/main) - Data from 190 university students dating profiles represented as vectors that are matched by cosine
+similarity to determine chemistry.
 
 # TODO
 - Build a movie recommendation engine that takes a movie dataset and recommends new movies based on the user's preferences and similarities to previous movies watched.
