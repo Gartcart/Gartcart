@@ -47,9 +47,5 @@ Software Engineer and Hobbyist.
 [Knock](https://github.com/Gartcart/knock-public/tree/main) - Data from 190 university students dating profiles represented as vectors that are matched by cosine
 similarity to determine chemistry.
 
-# TODO
+# Future Work!
 - Build a movie recommendation engine that takes a movie dataset and recommends new movies based on the user's preferences and similarities to previous movies watched.
-
-- Finish personal website with projects
-
-- Add dependabot instead of github actions bot to website
